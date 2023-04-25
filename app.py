@@ -25,4 +25,4 @@ def predict_cals():
 
 
 if __name__ == '__main__':
- app.run(host="0.0.0.0",port=8003)
+ app.run(Debug=False,host="0.0.0.0")
