@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'caloriesburntpredictor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_639081B6DF654B298E2FB3A25FEC2E49 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78D10018278A44749422A98F1184CBE2 }}
